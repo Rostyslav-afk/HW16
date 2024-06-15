@@ -1,0 +1,10 @@
+/* Основа */
+.bg-box {
+ padding-top: 945px;
+ width: 100%;
+ background-color: green;
+ background-image: url(../img/pole-zelen-trava-dom-derevya.webp),url(../img/green-png-44873.png),url(../img/lamp-png-34914.png),url(../img/donat1.png),url(../img/ezhuk.png);
+ background-repeat: no-repeat,repeat-x,repeat-x,repeat-y,repeat-y;
+ background-position: center, bottom, top,right,left;
+ background-size: 700px, 450px,60px,40px,40px;
+}
